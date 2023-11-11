@@ -1,4 +1,4 @@
-- 👋 Hi! Visit my webpage sloukapetr.cz.
+- 👋 Hi! Visit my webpage https://sloukapetr.cz.
 - 👀 I’m interested in telecommunications, electrical engineering and software development. 
 - 🌱 I’m currently learning everything at the Brno University of Technology at the Faculty of Electrical Engineering and Communication.
 - 💞️ I’m looking to collaborate on project in Laravel.
